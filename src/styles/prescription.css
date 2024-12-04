@@ -1,0 +1,11 @@
+.prescriptionDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.prescriptionFormDiv{
+    width: 40%;
+    margin: 2%;
+}
